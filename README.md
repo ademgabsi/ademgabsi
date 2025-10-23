@@ -68,20 +68,6 @@ I'm an ambitious computer science student at **ESPRIT (École Supérieure Privé
 
 ---
 
-## 🎯 Education
-
-**Engineering Student (Élève Ingénieur)**  
-**ESPRIT (École Supérieure Privée d'Ingénierie et de Technologies)** | Full-time  
-📍 Tunis, Tunisia  
-📅 September 2022 - Present (3 years 2 months)
-
-**Baccalauréat in Mathematics**  
-**Lycée Houmt-souk Djerba**  
-📅 2022  
-🏆 Mention: Assez Bien
-
----
-
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -126,95 +112,6 @@ I'm an ambitious computer science student at **ESPRIT (École Supérieure Privé
 
 ---
 
-## 🎓 Certifications
-
-<details open>
-<summary><b>🏅 NVIDIA AI Certifications (June 2025)</b></summary>
-
-### 1. Building LLM Applications With Prompt Engineering
-**NVIDIA** | June 2025  
-**Certification ID:** g-2IIRd1RO6ZWcYuaAXLtA
-
-- Mastered cutting-edge skillset to harness Large Language Models (LLMs) and generative AI
-- Developed expertise in prompt engineering techniques for LLM applications
-- Applied best practices for building production-ready AI applications
-
-### 2. Building Transformer-Based Natural Language Processing Applications
-**NVIDIA** | June 2025  
-**Certification ID:** pF329a7-SwSyOeTLS-WONQ
-
-- Deepened understanding of transformer-based models and their applications in NLP
-- Gained hands-on experience with foundational components of today's AI technologies
-- Implemented state-of-the-art transformer architectures
-
-### 3. Rapid Application Development with Large Language Models (LLMs)
-**NVIDIA** | June 2025  
-**Certification ID:** 4SmAhElMQZySoTzOylVCxA
-
-- Built and deployed LLM-driven applications using industry tools
-- Hands-on experience with NeMo, LangChain, and Triton Inference Server
-- Developed rapid prototyping skills for AI applications
-
-</details>
-
----
-
-## 💼 Professional Experience
-
-### 🔹 Summer Internship - Eduhelper
-**July 2025 (1 month)** | Gouvernorat Tunis, Tunisia (Remote)
-
-**Technologies:** .NET Framework, Angular, TypeScript, Node.js
-
-- Developed full-stack web applications using Angular and .NET Framework
-- Implemented RESTful APIs with Node.js and TypeScript
-- Contributed to educational technology solutions
-
-### 🔹 Summer Internship - BANQUE DE TUNISIE
-**June 2025 - July 2025 (2 months)** | Gouvernorat Tunis, Tunisia (Hybrid)
-
-**Technologies:** .NET Framework, JavaScript, Microsoft SQL Server, LLaMA, LLMs, Entity Framework, MVC Architecture
-
-- Worked on banking software solutions with .NET Framework and Entity Framework
-- Implemented MVC architecture patterns for enterprise applications
-- Gained experience with Large Language Models (LLaMA) integration
-- Developed database solutions using Microsoft SQL Server
-
----
-
-## 📚 Projects
-
-### 🏅 SPORTHIVE (Web Application)
-**Technologies:** PHP, Symfony Framework, MySQL, HTML, CSS, JavaScript
-
-- Developed a comprehensive sports management web application
-- Implemented RESTful APIs for seamless data communication
-- Designed and optimized MySQL database schema
-
-### 🏅 SPORTHIVE (Desktop Application)
-**Technologies:** Java, JavaFX, JDBC, MySQL
-
-- Built desktop application using JavaFX for rich UI experience
-- Implemented Object-Oriented Programming (OOP) principles
-- Utilized JDBC for database connectivity
-- Applied MVC architecture pattern
-
-### 🌐 ESTETTA (Website)
-**Technologies:** PHP, MySQL, HTML, CSS, JavaScript, UML
-
-- Created full-featured website with dynamic content
-- Designed database architecture and relationships
-- Applied UML for system modeling and documentation
-
-### 🎮 Rise 4 Rights (2D Game)
-**Technologies:** C, C++, SDL, Qt, Ubuntu, Git, Doxygen
-
-- Developed 2D game using C/C++ and SDL library
-- Implemented game mechanics and user interface with Qt
-- Maintained code documentation using Doxygen
-- Managed version control with Git
-
----
 
 ## 📚 Recent Activity
 
