@@ -112,14 +112,6 @@ I'm an ambitious computer science student at **ESPRIT (École Supérieure Privé
 
 ---
 
-
-## 📚 Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
 ## 💭 Quote of the Day
 
 <div align="center">
